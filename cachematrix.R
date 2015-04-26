@@ -4,9 +4,8 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-   
-  
-  
+   i <- NULL ## for storing the inverse of target matrix
+
   
   
 }
